@@ -1,0 +1,16 @@
+:root {
+  --color-background: oklch(0.97 0.015 85);
+  --color-surface: oklch(0.93 0.025 82);
+  --color-text: oklch(0.26 0.02 60);
+  --color-muted: oklch(0.44 0.02 65);
+  --color-primary: oklch(0.45 0.11 45);
+  --color-on-primary: #ffffff;
+  --color-accent: oklch(0.62 0.13 60);
+  --font-display: system-ui, sans-serif;
+  --font-body: system-ui, sans-serif;
+  --type-scale: 1.25;
+  --type-base: 17px;
+  --radius: 10px;
+  --image-radius: 0;
+  --density: 1;
+}
